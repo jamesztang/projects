@@ -1,3 +1,5 @@
 this is a.txt
 merged this line:
 add this file after someone pushed same file which i did not have it when I cloned the project.
+
+modified this file
